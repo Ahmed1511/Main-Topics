@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "StringManipulationDemos/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.ObjectPool": "5.0.4"
+        },
+        "runtime": {
+          "StringManipulationDemos.dll": {}
+        }
+      },
+      "Microsoft.Extensions.ObjectPool/5.0.4": {
+        "runtime": {
+          "lib/net5.0/Microsoft.Extensions.ObjectPool.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.421.11815"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StringManipulationDemos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.ObjectPool/5.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-amTxEqlRQCf0XlpijmNxUwzcNurVIH6fMYwjNLj47tl1tNM8g34iC/vim52Dm6wsgspoZdCwjiOWb0IjhgTfvw==",
+      "path": "microsoft.extensions.objectpool/5.0.4",
+      "hashPath": "microsoft.extensions.objectpool.5.0.4.nupkg.sha512"
+    }
+  }
+}

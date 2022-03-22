@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2gXEFUiwIxgayqIYtkut1Yf+2jirP0WrXa90JTRwG3gSBRNFDK5FnRlB4IYaIIKRQh5c8dlQcq8numJDF8W1Wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\String Manipulation\\01\\demos\\StringManipulationDemos\\01_After\\StringManipulationDemos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.objectpool\\5.0.4\\microsoft.extensions.objectpool.5.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

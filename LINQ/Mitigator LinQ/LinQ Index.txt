@@ -1,0 +1,91 @@
+
+LinQ Index:
+
+LINQ [001] Pure Vs. Impure Function
+	00:00 Intro | مقدمة
+	01:05 Programming Paradigm | نماذج البرمجة
+	04:04 Statement Vs. Expression
+	08:38 Pure Vs. Impure Functions
+
+LINQ [002] Functional Programming
+	00:00 Intro | مقدمة 
+	01:35 Delegate review
+	07:10 Procedural way
+	14:30 Functional Way
+	24:28 Benefits of Functional programming
+	25:55 Higher Order Functional And Relation to LINQ
+	27:12 Functional Programming with Extension methods	
+	
+LINQ [003] Core Of LINQ
+	00:00 Intro | مقدمة 
+	01:00 What is LINQ
+	06:48 Solution Setup
+	08:00 Filtering Where
+	11:18 Deferred Vs Immediate execution
+	24:25 Method Syntax Vs Query Syntax
+	29:40 LINQ Examples
+	35:38 Advantages of LINQ
+	
+LINQ [004] Projection Operation
+	00:00 Intro | مقدمة 
+	00:20 Defnition
+	02:09 Project Setup
+	09:00 Select Operation
+	14:38 SelectMany Operation
+	22:52 Zip Operation
+
+LINQ [005] Sorting Data
+	00:00 Intro | مقدمة  
+	00:44 Project setup
+	01:55 OrderBy, OrderByDescending
+	08:35 Primary  and Secondary Sorting (ThenBy, ThenByDescending)
+	12:20 Custom Comparer (IComparer of T)
+	21:55 Reverse Operation
+	
+LINQ [006] Data Partitioning
+	00:00 Intro
+	01:22 Skip(), SkipWhile(), SkipLast()
+	07:24 Take(), TakeWhile(), TakeLast() 
+	09:15 Chunck()
+	12:19 Pagination Example (Real use case)
+	
+LINQ [007] Quantifiers
+	00:00​ Intro | مقدمة
+	00:55 Project Setup
+	01:35 Any() Extension Method
+	08:08  All() Extension ​Method 
+	12:15  Any() All() Query syntax
+	15:40  Contains() Extension Method
+	
+LINQ [008] Grouping Data
+	00:00​ Intro | مقدمة
+	00:56 Project Setup
+	01:13 Group By Method
+	07:00 Group By Query Syntax
+	09:22 ToLookup 
+	10:45 Differemce between GroupBy and ToLookup
+	
+LINQ [009] Join Operations
+	00:00​ Intro | مقدمة
+	01:20 Project Setup 
+	02:25 Join Method Syntax
+	09:10 Join Query Syntax
+	10:45 GroupJoin Method Syntax
+	16:35 GroupJoin Query Syntax
+	
+LINQ [010] Generation Operations
+	00:00​ Intro | مقدمة
+	00:30 Project Setup
+	04:53 Empty
+	08:27 DefaultIfEmpty
+	09:55 default keyword
+	14:03 Range Operation
+	18:21 Repeat Operation
+	
+LINQ [011] Element Operations
+	00:00 Intro
+	00:30 Project Setup
+	01:21 ElementAt, ElementAtOrDefault
+	05:42 First, FirstOrDefault
+	09:38 Last, LastOrDefault
+	11:00 Single, SingleOrDefault
