@@ -1,63 +1,66 @@
-Module02
-01_CreatingStrings.cs
-02_WorkingWithChars.cs
-03_StringsAndChars.cs
-04_CharFunctions.cs
 
-Module03
-01_StringComparisons.cs
-02_SortingStrings.cs
-03_SortingDanish.cs
-04_EqualsMethod.cs
-05_GermanEquality.cs
-06_EqualityOperator.cs
-07_MissingData.cs
-
-Module04
-01_FindingWithinStrings.cs
-02_LocatingWithinStrings.cs
-03_RegularExpressions.cs
-04_ReadOnlySpan.cs
-
-Module05
-01_FormattingNumbersOne.cs
-02_FormattingNumbersTwo.cs
-03_FormattingDates.cs
-04_FormattingEnums.cs
-05_FormattingGuids.cs
-
-Module06
-01_UsingOperators.cs
-02_CompositeFormattingOne.cs
-03_CompositeFormattingTwo.cs
-04_CompositeFormattingThree.cs
-05_StringConcatAndJoin.cs
-06_StringInsert.cs
-07_StringInterpolation.cs
-
-Module07
-01_StringBuilderOne.cs
-02_StringBuilderTwo.cs
-03_StringBuilderThree.cs
-04_StringBuilderFour.cs
-05_PoolingStringBuilders.cs
-
-Module08
-01_SplittingStrings.cs
-02_SplittingStringsUsingRegex.cs
-03_Substring.cs
-04_ChangingCase.cs
-05_Whitespace.cs
-06_RegexReplacement.cs
-
-Module09
-01_ParsingNumbers.cs
-02_ParsingBooleans.cs
-03_ParsingDatesAndTimes.cs
-04_ParsingOtherTypes.cs
-
-Module10
-01_StringLength.cs
-02_AsciiEncoding.cs
-03_Utf8Encoding.cs
-04_Runes.cs
+	 String Manipolation ( All Strng Technic)
+	 ===========================================
+	Module02 ( string Char )
+	01_CreatingStrings.cs
+	02_WorkingWithChars.cs
+	03_StringsAndChars.cs
+	04_CharFunctions.cs
+	
+	Module03( string Comparisons , Sorting ,  Equality , CheckingForMissingData)
+	01_StringComparisons.cs
+	02_SortingStrings.cs
+	03_SortingDanish.cs
+	04_EqualsMethod.cs
+	05_GermanEquality.cs
+	06_EqualityOperator.cs
+	07_MissingData.cs
+	
+	Module04 ( FindingWithinStrings , LocatingWithinStrings , RegularExpressions , ReadOnlySpan )
+	01_FindingWithinStrings.cs
+	02_LocatingWithinStrings.cs
+	03_RegularExpressions.cs
+	04_ReadOnlySpan.cs
+	
+	Module05 ( FormattingNumbersOne , FormattingNumbersTwo , FormattingDates , FormattingEnums , FormattingGuids )
+	01_FormattingNumbersOne.cs
+	02_FormattingNumbersTwo.cs
+	03_FormattingDates.cs
+	04_FormattingEnums.cs
+	05_FormattingGuids.cs
+	
+	Module06 ( Concating )
+	01_UsingOperators.cs
+	02_CompositeFormattingOne.cs
+	03_CompositeFormattingTwo.cs
+	04_CompositeFormattingThree.cs
+	05_StringConcatAndJoin.cs
+	06_StringInsert.cs
+	07_StringInterpolation.cs
+	
+	Module07 ( StringBuilder )
+	01_StringBuilderOne.cs
+	02_StringBuilderTwo.cs
+	03_StringBuilderThree.cs
+	04_StringBuilderFour.cs
+	05_PoolingStringBuilders.cs
+	
+	Module08 ( Splitting )
+	01_SplittingStrings.cs
+	02_SplittingStringsUsingRegex.cs
+	03_Substring.cs
+	04_ChangingCase.cs
+	05_Whitespace.cs
+	06_RegexReplacement.cs
+	
+	Module09 ( Parsing )
+	01_ParsingNumbers.cs
+	02_ParsingBooleans.cs
+	03_ParsingDatesAndTimes.cs
+	04_ParsingOtherTypes.cs
+	
+	Module10 ( String Encoding in .NET )
+	01_StringLength.cs
+	02_AsciiEncoding.cs
+	03_Utf8Encoding.cs
+	04_Runes.cs
